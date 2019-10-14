@@ -1,0 +1,24 @@
+{
+	"name": "llagerlof/myclass",
+	"description": "MyClass is just for test composer features. Don't use it.",
+	"license": "BSD-3-Clause",
+	"version": "0.1",
+	"homepage": "https://github.com/llagerlof/MyClass",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/llagerlof/myclass.git"
+	},
+	"authors": [
+		{
+			"name": "Me, me, me. Me too.",
+			"email": "llagerlof@gmail.com"
+		}
+	],
+
+	"autoload": {
+                "psr-0": { "llagerlof\\MyClass\\": "" }
+	},
+
+        "target-dir": "llagerlof/MyClass"
+
+}

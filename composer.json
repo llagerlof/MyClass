@@ -19,6 +19,6 @@
                 "psr-0": { "llagerlof\\MyClass\\": "" }
 	},
 
-        "target-dir": "llagerlof/MyClass"
+        "target-dir": "."
 
 }

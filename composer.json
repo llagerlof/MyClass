@@ -13,12 +13,5 @@
 			"name": "Me, me, me. Me too.",
 			"email": "llagerlof@gmail.com"
 		}
-	],
-
-	"autoload": {
-                "psr-0": { "llagerlof\\MyClass\\": "" }
-	},
-
-        "target-dir": "."
-
+	]
 }

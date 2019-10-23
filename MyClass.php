@@ -1,5 +1,5 @@
 <?php
-// Version 0.5
+// Version 0.5.1
 class MyClass
 {
     public function __construct()

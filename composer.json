@@ -2,7 +2,7 @@
 	"name": "llagerlof/myclass",
 	"description": "MyClass is just for test composer features. It's useless.",
 	"license": "BSD-3-Clause",
-	"version": "0.5.2",
+	"version": "1.0.0",
 	"homepage": "https://github.com/llagerlof/MyClass",
 	"repository": {
 		"type": "git",
